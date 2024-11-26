@@ -19,10 +19,17 @@
     height:100px;
     padding: 1px;
 }
-col-sm-4{
+.col-sm-4{
     display:inline-block;
     flex-direction: row;
 	 width:100px;
     height:100px;
     padding: 1px;
+}
+.col-sm-12{
+	 display:inline-block;
+    flex-direction: row;
+	 width:100px;
+    height:100px;
+    padding: 1px;	
 }
