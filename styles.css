@@ -5,9 +5,7 @@
     margin: 0;
 }
 .container-fluid{
-	display:grid;
-	justify-content:space-between;
-	grid-template-columns:100px, 100px, 100px,;
+	display:inline-block;
 }
 .col-sm-1{
     display:inline-block;
