@@ -6,8 +6,6 @@
 }
 	.col-1{
     padding:1px;
-    width: 100px;
-    height:100px ;
     display: inline-block;
 }
 
@@ -20,8 +18,6 @@
 }
 .col-2{
     padding:1px;
-    width: 100px;
-    height:100px ;
     display: inline-block;
 }
 
@@ -34,8 +30,6 @@
 }
 .col-4{
     padding:1px;
-    width: 100px;
-    height:100px ;
     display: inline-block;
 }
 
@@ -47,10 +41,8 @@
     height:100px;
     padding: 1px;
 }
-.col{
+img{
     padding:1px;
-    width: 100px;
-    height:100px ;
     display: inline-block;
 }
 
