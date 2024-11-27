@@ -4,31 +4,19 @@
     padding: 0;
     margin: 0;
 }
-
-
 .col-sm-1{
     display:inline-block;
-    flex-direction:row;
-	 width:100px;
-    height:100px;
     padding: 1px;
 }
 
 
 .col-sm-2{
     display:inline-block;
-    flex-direction: row;
- width:100px;
-    height:100px;
     padding: 1px;
 }
 .col-sm-4{
     display:inline-block;
 	 padding: 1px;
-    flex-direction: row;
-	 width:100px;
-    height:100px;
-    padding: 1px;
 }
 img{
     padding:1px;
@@ -39,8 +27,5 @@ img{
 
 .col-sm-12{
 	 display:inline-block;
-    flex-direction: row;
-	 width:100px;
-    height:100px;
     padding: 1px;	
 }
